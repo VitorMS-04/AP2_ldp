@@ -1,0 +1,14 @@
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\bin\Debug\net8.0\ap2.exe
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\bin\Debug\net8.0\ap2.deps.json
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\bin\Debug\net8.0\ap2.runtimeconfig.json
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\bin\Debug\net8.0\ap2.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\bin\Debug\net8.0\ap2.pdb
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\ap2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\ap2.AssemblyInfoInputs.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\ap2.AssemblyInfo.cs
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\ap2.csproj.CoreCompileInputs.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\ap2.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\refint\ap2.dll
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\ap2.pdb
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\ap2.genruntimeconfig.cache
+C:\Users\anaca\OneDrive\Área de Trabalho\facul\Laboratório de programação\ap2\obj\Debug\net8.0\ref\ap2.dll
